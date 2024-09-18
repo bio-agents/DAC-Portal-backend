@@ -1,0 +1,7 @@
+/DAC-Portal/*
+/Permissions-API/*
+/dist/*
+/node_modules/*
+/ipc-test-data/*
+.gitignore
+.git/
