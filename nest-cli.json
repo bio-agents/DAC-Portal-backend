@@ -1,5 +1,3 @@
-{
-  "$schema": "https://json.schemastore.org/nest-cli",
-  "collection": "@nestjs/schematics",
-  "sourceRoot": "src"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e62198ee93c72755ae6663472640e19c7a092eacf6f14c27ab6ad4e33cf2f0
+size 118
